@@ -7,6 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  base: '/Wedding_Card_Webpage/',
   server: {
     port: 5173,
     open: false
